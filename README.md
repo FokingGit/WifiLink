@@ -186,13 +186,13 @@ public static final int CCMP = 2;
 - WPA（Wi-Fi Protected Access）
   - 认证方式：802.1x+EAP（需要认证服务器）
   - 加密方式：TKIP+MIC
-- WPA-PSA（Wi-Fi Protected Access-pre-shared key）
+- WPA-PSK（Wi-Fi Protected Access-pre-shared key）
   - 认证方式：预共享秘钥，使每一个WLAN节点输入相同的秘钥即可
   - 加密方式：TKIP+MIC
 - WPA2（Wi-Fi Protected Access）
   - 认证方式：802.1x+EAP（需要认证服务器）
   - 加密方式：AES/TKIP+CCMP
-- WPA2-PSA（Wi-Fi Protected Access-pre-shared key）
+- WPA2-PSK（Wi-Fi Protected Access-pre-shared key）
   - 认证方式：预共享秘钥，使每一个WLAN节点输入相同的秘钥即可
   - 加密方式：AES/TKIP+CCMP
 
