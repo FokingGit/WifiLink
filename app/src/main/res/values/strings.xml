@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WifiLinkDomo</string>
+    <string name="wifi_disabled">WIFI is switched off. Enable?</string>
+    <string name="enable_wifi">Enable WIFI</string>
+    <string name="exit_app">Exit application</string>
+    <string name="wifi_not_found">Network %s not found.</string>
+    <string name="wifi_not_connected">Could not connect to %s</string>
+    <string name="connecting_to_wifi">Connecting to WiFi: %s</string>
+    <string name="connecting">Connecting...</string>
+    <string name="ssid">SSID</string>
+    <string name="password">PASSWORD</string>
+    <string name="start_link">开始连接</string>
+    <string name="link_result">连接中：</string>
+    <string name="switch_wifi_success">切换wifi成功</string>
+    <string name="switch_wifi_fail">切换wifi失败</string>
+</resources>
